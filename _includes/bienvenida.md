@@ -1,3 +1,5 @@
+> :warning: :warning: Este sitio es una foto de lo que fue la cursada del segundo cuatrimestre del 2022, y **puede no reflejar** los contenidos actuales de la materia. Por favor, utilizá el material aquí presentado solo como referencia, y consultá con tu docente ante cualquier duda.
+
 ¡Bienvenido/a!
 
 En esta página vas a encontrar _casi_ todo lo necesario para tu cursada de **Programación con Objetos 2**, la materia que nos reúne. Decimos _casi_ porque hay mucho material que "vive" en otras páginas, pero este sitio funcionará como punto de partida para llegar allí.
@@ -10,10 +12,10 @@ Por motivos de público conocimiento, la modalidad de cursada será 100% virtual
 
 Cada **dos semanas** publicaremos una nueva clase, que estará compuesta por estos elementos:
 
-* 💬 un **encuentro sincrónico** donde introduciremos la nueva clase y repasaremos los errores comunes de la anterior,
-* :video_camera: **videos** que explican los temas de la clase,
-* :book: **lecturas**, que servirán para ampliar vocabulario y guiar la búsqueda de más información sobre los temas que trabajemos,
-* :memo: un **ejercicio práctico obligatorio**, que deberá ser entregado por GitHub antes de que comience la siguiente clase. Estos ejercicios formarán parte de la calificación de la materia.
+- 💬 un **encuentro sincrónico** donde introduciremos la nueva clase y repasaremos los errores comunes de la anterior,
+- :video_camera: **videos** que explican los temas de la clase,
+- :book: **lecturas**, que servirán para ampliar vocabulario y guiar la búsqueda de más información sobre los temas que trabajemos,
+- :memo: un **ejercicio práctico obligatorio**, que deberá ser entregado por GitHub antes de que comience la siguiente clase. Estos ejercicios formarán parte de la calificación de la materia.
 
 Podrán hacer consultas por Discord en cualquier momento, que serán respondidas según la disponibilidad del equipo docente. Además, en la semana "del medio" entre clase y clase, tendremos un espacio de consultas en vivo, también por Discord.
 
