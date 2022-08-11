@@ -1,5 +1,5 @@
 ---
-title: 'Contrato pedagógico'
+title: "Contrato pedagógico"
 date: 2021-08-10
 author: faloi
 categories: [Clases]
@@ -20,12 +20,12 @@ Contaremos con dos instancias de evaluación formal (o sea, dos momentos en que 
 
 Como lo establece el régimen académico (que está linkeado más arriba), hay varias formas de aprobar una materia. Elaboramos aquí algunos ejemplos, pero insistimos en la recomendación de que leas el régimen académico completo:
 
-* 6 en el primer TP + 8 en el segundo TP = **promoción directa** (promedio 7, notas mayores o iguales a 6);
-* 7 en el primer TP + 6 en el segundo TP = **recupera el segundo TP** o **rinde evaluación integradora** (no alcanza el promedio, debe ser 7 sin redondear);
-* 5 en el primer TP + 10 en el segundo TP = **recupera el primer TP** o **rinde evaluación integradora** (la nota del primer TP es menor que 6);
-* 4 en el primer TP + 5 en el segundo TP = **recupera ambas instancias** o **rinde evaluación integradora** (no alcanza el promedio y las notas son inferiores a 6);
-* menos de 4 en UNA instancia de evaluación = **recupera esa instancia**;
-* menos de 4 en AMBAS instancias de evaluación = **recupera ambas instancias**.
+- 6 en el primer TP + 8 en el segundo TP = **promoción directa** (promedio 7, notas mayores o iguales a 6);
+- 7 en el primer TP + 6 en el segundo TP = **recupera el segundo TP** o **rinde evaluación integradora** (no alcanza el promedio, debe ser 7 sin redondear);
+- 5 en el primer TP + 10 en el segundo TP = **recupera el primer TP** o **rinde evaluación integradora** (la nota del primer TP es menor que 6);
+- 4 en el primer TP + 5 en el segundo TP = **recupera ambas instancias** o **rinde evaluación integradora** (no alcanza el promedio y las notas son inferiores a 6);
+- menos de 4 en UNA instancia de evaluación = **recupera esa instancia**;
+- menos de 4 en AMBAS instancias de evaluación = **recupera ambas instancias**.
 
 En nuestro caso, los recuperatorios consistirán en reentregar los ejercicios que los docentes consideremos necesarios.
 
@@ -35,4 +35,4 @@ Ver el [calendario acádemico](http://www.unahur.edu.ar/es/calendario-academico)
 
 ## Programa de la materia
 
-Podés descargarlo haciendo clic [aquí](/assets/pdf/programa-obj2.pdf).
+Podés descargarlo haciendo clic [aquí](/cursada-historica-2021/assets/pdf/programa-obj2.pdf).

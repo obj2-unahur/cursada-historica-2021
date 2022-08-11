@@ -4,7 +4,7 @@
 
 En esta página vas a encontrar _casi_ todo lo necesario para tu cursada de **Programación con Objetos 2**, la materia que nos reúne. Decimos _casi_ porque hay mucho material que "vive" en otras páginas, pero este sitio funcionará como punto de partida para llegar allí.
 
-Si es la primera vez que entrás acá, te recomendamos que leas el [contrato pedagógico](/articulos/contrato-pedagogico), donde explicamos todo lo que tenés que saber para aprobar esta materia. Si ya viniste varias veces, probablemente quieras ir a la sección [clases](/categorias/clases).
+Si es la primera vez que entrás acá, te recomendamos que leas el [contrato pedagógico](/cursada-historica-2021/articulos/contrato-pedagogico), donde explicamos todo lo que tenés que saber para aprobar esta materia. Si ya viniste varias veces, probablemente quieras ir a la sección [clases](/cursada-historica-2021/categorias/clases).
 
 ## :ballot_box_with_check: Modalidad de cursada
 
