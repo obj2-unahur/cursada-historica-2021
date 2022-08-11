@@ -1,4 +1,6 @@
-> :warning: :warning: Este sitio es una foto de lo que fue la cursada del segundo cuatrimestre del 2022, y **puede no reflejar** los contenidos actuales de la materia. Por favor, utilizá el material aquí presentado solo como referencia, y consultá con tu docente ante cualquier duda.
+> :warning: :warning: :warning: :warning:
+> Este sitio es una foto de lo que fue la cursada del segundo cuatrimestre del 2022, y **puede no reflejar** los contenidos actuales de la materia. Por favor, utilizá el material aquí presentado solo como referencia, y consultá con tu docente ante cualquier duda.
+> :warning: :warning: :warning: :warning:
 
 ¡Bienvenido/a!
 
