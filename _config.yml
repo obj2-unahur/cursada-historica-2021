@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: ''
+baseurl: "/cursada-historica-2021"
 
 # the HTML language tag › https://www.w3.org/International/questions/qa-choosing-language-tags
 lang: es-AR
@@ -15,37 +15,37 @@ timezone: America/Argentina/Buenos_Aires
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Programación con Objetos 2                          # the main title
+title: Programación con Objetos 2 # the main title
 
-tagline: Licenciatura en Informática - Universidad Nacional de Hurlingham   # it will display as the sub-title
+tagline: Licenciatura en Informática - Universidad Nacional de Hurlingham # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
+description: >- # used by seo meta and the atom feed
   Una materia del tercer cuatrimestre de la Licenciatura en Informática, donde aprendemos diferentes técnicas de diseño orientado a objetos utilizando el lenguaje Kotlin.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://obj2-unahur.github.io'
+url: "https://obj2-unahur.github.io"
 
 github:
-  username: obj2-unahur            # change to your github username
+  username: obj2-unahur # change to your github username
 
 social:
-  name: Equipo de Programación con Objetos 2                  # it will shows as the copyright owner in Footer
+  name: Equipo de Programación con Objetos 2 # it will shows as the copyright owner in Footer
   links:
-    - https://github.com/obj2-unahur       # change to your github homepage
+    - https://github.com/obj2-unahur # change to your github homepage
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
 
 google_analytics:
-  id: 'G-L0NC4DKCRY'          # Fill with your Google Analytics ID
+  id: "G-L0NC4DKCRY" # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
     enabled: false
     # the next options only valid when `google_analytics.pv` is enabled.
-    proxy_url: 'https://obj2-unahur.rj.r.appspot.com'
-    proxy_endpoint: 'https://obj2-unahur.rj.r.appspot.com/query?id=ag1pfm9iajItdW5haHVychULEghBcGlRdWVyeRiAgIDo14eBCgw'
-    cache: false  # pv data local cache, good for the users from GFW area.
+    proxy_url: "https://obj2-unahur.rj.r.appspot.com"
+    proxy_endpoint: "https://obj2-unahur.rj.r.appspot.com/query?id=ag1pfm9iajItdW5haHVychULEghBcGlRdWVyeRiAgIDo14eBCgw"
+    cache: false # pv data local cache, good for the users from GFW area.
 
 # Prefer color scheme setting.
 #
@@ -58,14 +58,14 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: ''
+img_cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/img/logo.png
@@ -74,8 +74,8 @@ avatar: /assets/img/logo.png
 toc: true
 
 disqus:
-  comments: true  # boolean type, the global switch for posts comments.
-  shortname: 'obj2-unahur'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  comments: true # boolean type, the global switch for posts comments.
+  shortname: "obj2-unahur" # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 paginate: 10
 
@@ -83,7 +83,7 @@ paginate: 10
 
 kramdown:
   syntax_highlighter: rouge
-  syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
+  syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: highlight
     # default_lang: console
     span:
@@ -101,28 +101,24 @@ collections:
     output: true
     sort_by: order
 
-
 defaults:
-  -
-    scope:
-      path: ''          # An empty string here means all files in the project
+  - scope:
+      path: "" # An empty string here means all files in the project
       type: posts
     values:
       layout: articulo
-      toc: true         # Display TOC column in posts.
-  -
-    scope:
+      toc: true # Display TOC column in posts.
+  - scope:
       path: _drafts
     values:
       comments: false
-  -
-    scope:
-      path: ''
-      type: tabs             # see `site.collections`
+  - scope:
+      path: ""
+      type: tabs # see `site.collections`
     values:
       layout: page
       permalink: /:title/
-      dynamic_title: true    # Hide title in mobile screens.
+      dynamic_title: true # Hide title in mobile screens.
       hide_panel: true
       toc: true
 
@@ -142,8 +138,8 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
-  - '*.gem'
-  - '*.gemspec'
+  - "*.gem"
+  - "*.gemspec"
   - tools
   - docs
   - README.md
@@ -163,7 +159,7 @@ jekyll-archives:
     category: /categorias/:name/
 
 extlinks:
-  attributes: {rel: nofollow, target: _blank}
+  attributes: { rel: nofollow, target: _blank }
 
 plugins:
   - jemoji
